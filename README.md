@@ -24,6 +24,14 @@
 
 - [Android Machine Learning with TensorFlow Lite and tf.Keras](https://caster.io/courses/android-machine-learning-with-tensorflow-lite-and-tf-keras)
 
+- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
+
+- [Deep Learning with Tensorflow](https://www.edx.org/course/deep-learning-with-tensorflow)
+
+- [Basic Image Classification with TensorFlow](https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification)
+
+- [Practical Machine Learning with Tensorflow](https://swayam.gov.in/nd1_noc20_cs44/preview)
+
 <center><h3>Contribution</h3></center>
 <center><p>Feel free to contribute by sending a <b>pull request</b>. <b>Star the repository</b> on Github in order to spread it in the community of machine learning, deep learning or artificial intelligence developers.
 To be updated with latest sessions, workshops, news follow us on social media.</p></center>
